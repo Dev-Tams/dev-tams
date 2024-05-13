@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Tammy Alemu
+### Hi there 👋, I'm Tammy Alemu
 #### Backend developer 
  Backend Developer, building with PHP/Laravel. I am versed in modern front end technologies and have experience working with Javascript. 
 Additionally I am open to learning new technologies, communicate complex concepts and documenting.
