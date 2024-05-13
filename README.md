@@ -18,7 +18,7 @@ server requests and API management.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tams)](https://github.com/dev-tams/github-readme-stats)
 
 #### Connect with me 
-- [LinkedIn](https://linkedin.com/tammyalemu)  [Twitter](https://twitter.com/tammyalemu)
+- [LinkedIn](https://linkedin.com/in/tammyalemu)  [Twitter](https://twitter.com/tammyalemu)
 
 
 
