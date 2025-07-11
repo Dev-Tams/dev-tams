@@ -5,7 +5,8 @@ server requests and API management.
  Let's make the backend magic happen!
 
 ### Skills and experience
-- PHP /Laravel 
+- PHP /Laravel
+- Golang
 - Vanilla JS 
 - SQL
 - HTML / CSS/ Tailwind CSS
